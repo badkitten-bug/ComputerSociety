@@ -15,7 +15,7 @@ Join us in our mission to make technology accessible and beneficial for all. Whe
 
 **Connect With Us:**
 
-Website: 
-Email: ieee.cs@untels.edu.pe
-Linkedin : https://www.linkedin.com/company/ieee-computer-society-untels/
+  * Website: 
+  *Email: ieee.cs@untels.edu.pe
+  *Linkedin : https://www.linkedin.com/company/ieee-computer-society-untels/
 Thank you for considering becoming a part of the Computer Society Volunteers. Together, we can make a difference in the world of technology and computer science.
