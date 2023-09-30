@@ -13,6 +13,27 @@ Engage with the broader tech community to stay up-to-date with industry trends.
 Get Involved:
 Join us in our mission to make technology accessible and beneficial for all. Whether you want to contribute code, share your expertise, or simply be part of an inspiring community, you are welcome here. Get started by exploring our projects and joining our discussions.
 
+## Technologies Used
+
+This project is built using the following technologies and tools:
+
+- **Astro**: A static site generator for building fast and efficient websites.
+- **HTML/CSS**: The foundation of our web pages, styled for a modern and engaging user experience.
+- **JavaScript**: Used to enhance interactivity and add dynamic features.
+- **[Additional technologies/toolkits]**: [List any other technologies or libraries you've used in your project, e.g., React, Bootstrap, etc.]
+
+## Get Involved
+
+Join us in our mission to make technology accessible and beneficial for all. There are many ways to get involved:
+
+- **Contribute:** Dive into our projects and contribute your skills and knowledge to make a difference.
+
+- **Learn:** Attend our educational events and take advantage of the learning resources we provide.
+
+- **Mentorship:** If you're an experienced professional, consider becoming a mentor and helping others grow in their tech careers.
+
+- **Community:** Be part of a supportive and inspiring community of like-minded individuals.
+
 ## **Connect With Us:**
 
   - Website: 
