@@ -13,7 +13,7 @@ Engage with the broader tech community to stay up-to-date with industry trends.
 Get Involved:
 Join us in our mission to make technology accessible and beneficial for all. Whether you want to contribute code, share your expertise, or simply be part of an inspiring community, you are welcome here. Get started by exploring our projects and joining our discussions.
 
-##**Connect With Us:**
+## **Connect With Us:**
 
   - Website: 
   - Email: ieee.cs@untels.edu.pe
